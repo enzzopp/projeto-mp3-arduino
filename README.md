@@ -19,6 +19,7 @@ O projeto consiste em um sistema embarcado utilizando Arduino para reprodução 
 - Mini Alto-falante
 - Botões para controle
 - LEDs indicativos
+- Display LED
 - Protoboard
 - Capacitores
 - Fios Conectores
