@@ -36,7 +36,7 @@ Aqui estão algumas imagens da implementação física do projeto:
 
 ## Simulação
 
-Você pode simular este projeto no [Tinkercad](https://www.tinkercad.com/things/bRB2v3oyfJI-projeto-mp3?sharecode=vi-Ft-nWzyMFj1pIHBYh4qkfQFyQlZ59c-_pTfjODEc) para ter uma ideia de como funciona antes de implementar fisicamente.
+Acesse a simulação deste projeto no [Tinkercad](https://www.tinkercad.com/things/bRB2v3oyfJI-projeto-mp3?sharecode=vi-Ft-nWzyMFj1pIHBYh4qkfQFyQlZ59c-_pTfjODEc) para ter uma ideia de como funciona antes de implementar fisicamente.
 
 ![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/cd7f435d-3ca8-4ec4-b858-d439b21af724)
 
