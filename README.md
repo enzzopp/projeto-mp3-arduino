@@ -41,7 +41,7 @@ Você pode simular este projeto no [Tinkercad](https://www.tinkercad.com/things/
 
 ## Arquivo Source em C++
 
-O arquivo source.cpp em C++ usado neste projeto contém o código fonte responsável pela lógica de reprodução das músicas, controle de botões e indicação visual do status de reprodução. Este arquivo é fundamental para entender como o sistema embarcado funciona e como as funcionalidades são implementadas no Arduino.
+O arquivo [source.cpp](https://github.com/enzzopp/projeto-mp3-arduino/source.cpp) em C++ usado neste projeto contém o código fonte responsável pela lógica de reprodução das músicas, controle de botões e indicação visual do status de reprodução. Este arquivo é fundamental para entender como o sistema embarcado funciona e como as funcionalidades são implementadas no Arduino.
 
 
 ## Contribuições
