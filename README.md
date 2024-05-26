@@ -25,15 +25,6 @@ O projeto consiste em um sistema embarcado utilizando Arduino para reprodução 
 - Fios Conectores
 - Potenciômetro
 
-## Montagem do Circuito Físico
-
-Aqui estão algumas imagens da implementação física do projeto:
-
-![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/44a99c7a-5605-47d4-9f93-f4830e399be8)
-![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/1a172a36-b5fe-4cf2-865b-c34fed9d163c)
-![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/9b932d41-6547-4771-a7e4-6c1813656ba7)
-![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/46792004-34a3-4f38-ac7d-c6a37732c506)
-
 ## Simulação
 
 Acesse a simulação deste projeto no [Tinkercad](https://www.tinkercad.com/things/bRB2v3oyfJI-projeto-mp3?sharecode=vi-Ft-nWzyMFj1pIHBYh4qkfQFyQlZ59c-_pTfjODEc) para ter uma ideia de como funciona antes de implementar fisicamente.
@@ -43,6 +34,16 @@ Acesse a simulação deste projeto no [Tinkercad](https://www.tinkercad.com/thin
 ## Arquivo Source em C++
 
 O arquivo [source.cpp](https://github.com/enzzopp/projeto-mp3-arduino/source.cpp) em C++ usado neste projeto contém o código fonte responsável pela lógica de reprodução das músicas, controle de botões e indicação visual do status de reprodução. Este arquivo é fundamental para entender como o sistema embarcado funciona e como as funcionalidades são implementadas no Arduino.
+
+## Montagem do Circuito Físico
+
+Aqui estão algumas imagens da implementação física do projeto:
+
+![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/44a99c7a-5605-47d4-9f93-f4830e399be8)
+![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/1a172a36-b5fe-4cf2-865b-c34fed9d163c)
+![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/9b932d41-6547-4771-a7e4-6c1813656ba7)
+![image](https://github.com/enzzopp/projeto-mp3-arduino/assets/91479667/46792004-34a3-4f38-ac7d-c6a37732c506)
+
 
 
 ## Contribuições
